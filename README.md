@@ -20,6 +20,6 @@ In the reults you will find the following tasks broken down
 - Calculate correlation and regression.
 
 - Submit your final analysis.
-(Note final analysis will be located at the top of the .jyper file)
+(Note final analysis will be located at the top of the .ipynb file)
 
-Code for this project is located in pymaceuticals.ipynb file
+Code for this project is located in pymaceuticals_starter.ipynb file
